@@ -1,2 +1,5 @@
 Step 1: Order Pizza
 Step 2: Wait for the Delivery
+Step 3: Do something to pass time while waiting on delicious Pizza
+Step 4: Collect pizza at door (tip generously)
+Step 5: Enjoy!
